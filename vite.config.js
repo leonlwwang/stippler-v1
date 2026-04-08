@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: '/stippler/',
+    base: '/stippler-v1/',
     server: {
         port: 8000
     }
